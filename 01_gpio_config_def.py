@@ -4,7 +4,8 @@ H_INDEPENDENT = 2
 H_SPECIAL     = 3  
 H_UNKNOWN     = 4  
 
-# voltage: 1.6
+voltage = 1.60
+analog = False
 # configuration failed in gpio[9], anything after is invalid
 gpio_l = [
 ['IO[0]', H_NONE],

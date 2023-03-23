@@ -4,7 +4,7 @@ H_INDEPENDENT = 2
 H_SPECIAL     = 3  
 H_UNKNOWN     = 4  
 
-# voltage: 1.6
+voltage= 1.6
 # IO configuration chain was successful
 gpio_l = [
 ['IO[0]', H_NONE],
